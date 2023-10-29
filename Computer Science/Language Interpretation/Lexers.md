@@ -1,0 +1,1 @@
+A Lexer is the first piece of the puzzle when handling trying to turn a text file that contains some user input into computible machine code that can be run. This process is done by bother [[Interpreters]] and [[Compilers]] and as a series of steps involved.

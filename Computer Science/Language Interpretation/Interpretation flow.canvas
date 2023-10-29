@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"Computer Science/Language Interpretation/Interpreters.md","id":"292fdbcf800f9d1e","x":-1500,"y":-1140,"width":420,"height":404},
+		{"id":"d99d107a5dfc3329","x":-71,"y":-680,"width":400,"height":400,"type":"file","file":"Computer Science/Language Interpretation/Parsers.md"},
+		{"id":"f27c279037108d71","x":-20,"y":-1380,"width":400,"height":400,"type":"file","file":"Computer Science/Language Interpretation/Abstract Syntax Tree.md"},
+		{"id":"845bc323055818f0","x":740,"y":-1180,"width":400,"height":400,"type":"file","file":"Computer Science/Language Interpretation/Evaluation.md"},
+		{"id":"572388487ad3e959","x":-820,"y":-880,"width":400,"height":400,"type":"file","file":"Computer Science/Language Interpretation/Lexers.md"}
+	],
+	"edges":[
+		{"id":"46ce34afc41634ae","fromNode":"292fdbcf800f9d1e","fromSide":"right","toNode":"572388487ad3e959","toSide":"left"},
+		{"id":"3871392c1346421e","fromNode":"d99d107a5dfc3329","fromSide":"top","toNode":"f27c279037108d71","toSide":"bottom"},
+		{"id":"d77821e101cf59d8","fromNode":"f27c279037108d71","fromSide":"right","toNode":"845bc323055818f0","toSide":"left"},
+		{"id":"04f4564ce78978fc","fromNode":"572388487ad3e959","fromSide":"right","toNode":"d99d107a5dfc3329","toSide":"left"}
+	]
+}

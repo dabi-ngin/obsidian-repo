@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "de8b6acdf4d552c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "23460b9553e6d42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893b0bb7d6f965fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data structures and Algorithms/Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d67065a3410f71c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0086a52796ea75c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "de1d3a7005eabd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a0bbb14216150a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "743ae0aff3e477b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Computer-Science",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9c1c9d045b704e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca7e55ace0e6eb7",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "ef843c09762996fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcef7fb4b29c32e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1298cd57c9ac151a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Data structures and Algorithms/Data Structures and Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fd7444b762ec742",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Data structures and Algorithms/Data Structures and Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33eb35b5c1906e4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b9f3634711f2d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Data structures and Algorithms/Data Structures and Algorithms.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "893b0bb7d6f965fb",
+  "lastOpenFiles": [
+    "Computer Science/Language Interpretation/Evaluating Functions.md",
+    "Computer Science/Language Interpretation/Programming Languages.md",
+    "Computer Science/Language Interpretation/Lexers.md",
+    "Computer Science/Language Interpretation/Evaluation.md",
+    "Computer Science/Language Interpretation/Compilers.md",
+    "Computer Science/Language Interpretation/Interpreters.md",
+    "Computer Science/Language Interpretation/Bindings.md",
+    "Computer Science/Language Interpretation/Parsing Functions.md",
+    "Computer Science/Language Interpretation/Tree Walking Interpretation.md",
+    "Computer Science/Language Interpretation/Abstract Syntax Tree.md",
+    "Computer Science/Language Interpretation/Interpretation flow.canvas",
+    "Philosophy/Philosophy of Mind/Searle.md",
+    "Computer Science/Artificial Intelligence",
+    "Computer Science/Artificial Intelligence/Artificial Intelligence.md",
+    "Philosophy/Philosophy of Mind/Philosophy of Mind.md",
+    "René D'escartes.md",
+    "Philosophy/Philosophy of Mind",
+    "Philosophy/Stoicism.md",
+    "Philosophy/Existentialism.md",
+    "Philosophy/Plato.md",
+    "Philosophy/Søren Kierkegaard.md",
+    "Computer Science/Data structures and Algorithms/Data Structures and Algorithms.md",
+    "Philosophy",
+    "Computer Science",
+    "Computer Science/Data structures and Algorithms",
+    "Computer Science/Language Interpretation",
+    "Computer Science/Language Interpretation/Tokens.md",
+    "Computer Science/Language Interpretation/Parsing If Else.md",
+    "2023-08-17.md",
+    "Computer Science/Language Interpretation/Parsers.md",
+    "Context-Free Grammars.md",
+    "Computer Science.md",
+    "Library.md",
+    "Compilers",
+    "Interpeters"
+  ]
+}

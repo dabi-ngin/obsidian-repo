@@ -1,0 +1,2 @@
+
+Abstract syntax trees are constructed as part of the [[Parsers|parsing]] process. These are a temporary representation of a series of rules defined within a programming language such as operator precedence 
